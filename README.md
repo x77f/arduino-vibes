@@ -3,5 +3,5 @@
 
 ## Cooked in Collaboration with
 
-- **[Tasmari Tuli)(https://github.com/tuli-123)** (My Aura Farming Broski)
+- **[Tasmari Tuli](https://github.com/tuli-123)** (My Aura Farming Broski)
 - And our usual AI buddies. XD
